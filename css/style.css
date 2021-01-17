@@ -118,3 +118,9 @@ padding: 250px 0;
 color: #fff;
 background-size: cover;
 }
+footer {
+    background-color:black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
